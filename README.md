@@ -92,20 +92,20 @@ The final award decision must be based on verified evidence, the tender conditio
 
 8. Project Deliverables
 
-This portfolio project can be expanded to include:
+Current portfolio files:
+1. Supplier evaluation and tender bid analysis methodology.
+2. Supplier evaluation matrix in CSV format.
+3. Preliminary award recommendation and procurement governance controls.
 
-1. Supplier evaluation scorecard.
-2. Tender bid comparison matrix.
-3. Weighted scoring calculations.
-4. Supplier risk assessment.
-5. Procurement award recommendation.
-6. Evaluation governance and audit checklist.
-
-9. Professional Application
+Potential future enhancements:
+1. Automated weighted scoring and ranking.
+2. Supplier risk assessment dashboard.
+3. Procurement evaluation checklist and audit trail.
+4. Excel-based evaluation tool with validation controls.
 
 This case study demonstrates practical knowledge of strategic sourcing, supplier evaluation, commercial analysis, procurement governance, and evidence-based decision-making.
 
 These competencies are relevant to procurement analyst, purchasing agent, sourcing specialist, supply chain consultant, and AI procurement evaluation assignments.
-**Prepared by:** Mercia Leburu-Tsawane
+Prepared by: Mercia Leburu-Tsawane
 
 **Portfolio repository:** https://github.com/mercialeburu-creator/supplier-evaluation-tool
