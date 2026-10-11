@@ -1,0 +1,4 @@
+Supplier,Quoted Price (ZAR),Price Score,Technical Score,Quality Score,Delivery Score,Compliance Score,Service Score,Total Weighted Score,Rank
+Supplier A,120000,4.79,5,4,3,5,4,88.7,2
+Supplier B,126000,4.56,4,4,5,4,4,86.4,3
+Supplier C,115000,5.00,4,5,4,5,5,92.0,1
