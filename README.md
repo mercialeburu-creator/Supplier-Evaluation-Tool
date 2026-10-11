@@ -1,6 +1,6 @@
-Supplier Evaluation and Tender Bid Analysis Tool 
-A procurement project demonstrating supplier evaluation, tender bid comparison, and sourcing decision-making.
-# Supplier Evaluation and Tender Bid Analysis Tool
+Supplier Evaluation and Tender Bid Analysis Tool
+
+A procurement portfolio project demonstrating supplier evaluation, tender bid comparison, and evidence-based sourcing decision-making.
 
 1. Project Overview
 
@@ -14,54 +14,71 @@ Key competencies: Supplier Evaluation, Tender Analysis, Bid Comparison Matrices,
 
 A company requires industrial materials. Three hypothetical suppliers submit quotations for the same specification. The procurement team must evaluate the offers objectively and recommend the most suitable supplier.
 
-The objective is to achieve value for money while maintaining technical compliance, quality, reliable delivery, and good supplier service.
+The objective is to achieve value for money while maintaining technical compliance, quality, reliable delivery, regulatory compliance, and good supplier service.
 
-*Note: All supplier names, prices, and scores in this case study are illustrative.*
+*Note: Supplier names, prices, scores, and evaluation results in this case study are fictional and illustrative. They do not represent actual supplier quotations or performance assessments.*
 
 3. Evaluation Methodology
 
 The evaluation uses a weighted scoring model with a maximum score of 100 points.
 
-Evaluation criterion               | Weight |
-Price competitiveness              | 30% |
-Technical compliance               | 25% |
-Quality performance                | 15% |
-Delivery capability                | 15% |
-Regulatory and document compliance | 10% |
-Customer service and support       | 5% |
-Total                              | 100% |
+| Evaluation criterion | Weight |
+| Price competitiveness | 30% |
+| Technical compliance | 25% |
+| Quality performance | 15% |
+| Delivery capability | 15% |
+| Regulatory and document compliance | 10% |
+| Customer service and support | 5% |
+| Total | 100%|
 
-Each supplier receives a score from 1 to 5 for each criterion.
+Each supplier is assessed against the same criteria using a score from 1 to 5.
+
+Weighted score formula:
 
 Weighted score = (Supplier score ÷ 5) × Criterion weight.
 
-The price score is calculated using the lowest evaluated bid divided by the supplier's evaluated bid, multiplied by 5.
+Price score formula:
 
-Mandatory requirements must be checked separately before an award recommendation is made.
+Price score = (Lowest evaluated bid ÷ Supplier's evaluated bid) × 5.
+
+The weighted price score is calculated by applying the 30% price weight to the normalised price score.
+
+Mandatory requirements must be assessed separately. A supplier that fails a mandatory requirement may be excluded from further evaluation in accordance with the applicable tender rules.
 
 4. Supplier Bid Comparison
 
-Supplier   | Quoted price |
-Supplier A | R120,000 |
-Supplier B | R126,000 |
-Supplier C | R115,000 |
+| Supplier | Quoted price |
+| Thaba Industrial Supplies (Pty) Ltd | R120,000 |
+| Metsi Engineering & Trading (Pty) Ltd | R126,000 |
+| Kopano Industrial Solutions (Pty) Ltd | R115,000 |
 
-Supplier C submitted the lowest quotation. However, price alone does not determine the final sourcing decision. Technical compliance, quality, delivery capability, and mandatory requirements must also be considered.
+Kopano Industrial Solutions (Pty) Ltd submitted the lowest illustrative quotation. However, price alone does not determine the final sourcing decision. Technical compliance, quality, delivery capability, mandatory requirements, and overall value for money must also be considered.
 
 5. Preliminary Evaluation Results
 
-Supplier | Weighted score  | Rank |
-Supplier C | 92.0/100      | 1 |
-Supplier A | 88.7/100      | 2 |
-Supplier B | 86.4/100      | 3 |
+The following results are illustrative and must be validated against the underlying evaluation calculations and supporting evidence.
 
-These are illustrative results for demonstration purposes. The underlying calculations and supporting evidence must be validated before the results are used for a real procurement decision.
+| Supplier | Illustrative weighted score | Illustrative rank |
+| Kopano Industrial Solutions (Pty) Ltd | 92.0/100 | 1 |
+| Thaba Industrial Supplies (Pty) Ltd | 88.7/100 | 2 |
+| Metsi Engineering & Trading (Pty) Ltd | 86.4/100 | 3 |
+
+These preliminary rankings are provided to demonstrate how a weighted evaluation can be presented. They must not be treated as final results until the calculations, scoring evidence, and mandatory compliance checks have been validated.
 
 6. Preliminary Award Recommendation
 
-Based on the illustrative scores, Supplier C ranks first. Its offer has the lowest quoted price and the highest overall weighted score in this example.
+Based on the illustrative results, Kopano Industrial Solutions (Pty) Ltd ranks first and has the lowest quoted price in this example.
 
-Before recommending an award, the procurement team must verify mandatory technical and commercial compliance, validate the calculations and supporting evidence, assess supplier risks, and obtain the required approvals under the applicable procurement policy.
+Before making an award recommendation, the procurement team must:
+
+- Confirm that the supplier meets all mandatory technical and commercial requirements.
+- Validate the price comparison and weighted scoring calculations.
+- Verify the evidence supporting each evaluation score.
+- Assess supplier delivery, quality, compliance, and performance risks.
+- Document the evaluation rationale and any material deviations.
+- Obtain approval from the authorised decision-maker in accordance with the applicable procurement policy.
+
+The final award decision must be based on verified evidence, the tender conditions, and the approved evaluation methodology.
 
 7. Procurement Governance and Risk Controls
 
